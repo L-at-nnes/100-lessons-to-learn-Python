@@ -1,0 +1,9 @@
+﻿topic,difficulty,minutes,score
+Decorators,medium,40,85
+Async,hard,55,78
+HTTP,medium,60,88
+SQLite,easy,35,92
+CLI Tools,medium,45,80
+Testing,hard,50,75
+Packaging,medium,55,83
+Visualization,easy,30,95
